@@ -1,1 +1,3 @@
-# pucrs-mf-t1
+# Métodos Formais - Trabalho 1
+
+Alunos: Marco Goedert e Matheu Góes
