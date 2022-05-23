@@ -1,7 +1,9 @@
 # Métodos Formais - T1
 
 Disciplina: Métodos Formais
+
 Prof. Júlio Machado
+
 Alunos: Marco Goedert e Matheu Góes
 
 ## Trabalho 1
